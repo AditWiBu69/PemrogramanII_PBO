@@ -1,0 +1,7 @@
+D:\Me\tugas\New folder (3)\P1_714220038\P1_714220038\bin\Debug\P1_714220038.exe.config
+D:\Me\tugas\New folder (3)\P1_714220038\P1_714220038\bin\Debug\P1_714220038.exe
+D:\Me\tugas\New folder (3)\P1_714220038\P1_714220038\bin\Debug\P1_714220038.pdb
+D:\Me\tugas\New folder (3)\P1_714220038\P1_714220038\obj\Debug\P1_714220038.csproj.AssemblyReference.cache
+D:\Me\tugas\New folder (3)\P1_714220038\P1_714220038\obj\Debug\P1_714220038.csproj.CoreCompileInputs.cache
+D:\Me\tugas\New folder (3)\P1_714220038\P1_714220038\obj\Debug\P1_714220038.exe
+D:\Me\tugas\New folder (3)\P1_714220038\P1_714220038\obj\Debug\P1_714220038.pdb
