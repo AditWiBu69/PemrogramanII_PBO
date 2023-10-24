@@ -5,3 +5,10 @@ D:\Me\tugas\New folder (3)\P3_1_714220038\P3_1_714220038\obj\Debug\P3_1_71422003
 D:\Me\tugas\New folder (3)\P3_1_714220038\P3_1_714220038\obj\Debug\P3_1_714220038.csproj.CoreCompileInputs.cache
 D:\Me\tugas\New folder (3)\P3_1_714220038\P3_1_714220038\obj\Debug\P3_1_714220038.exe
 D:\Me\tugas\New folder (3)\P3_1_714220038\P3_1_714220038\obj\Debug\P3_1_714220038.pdb
+C:\Users\aditya firmansyah\Downloads\PBO\Pertemuan3\Praktikum\P3_1_714220038\P3_1_714220038\bin\Debug\P3_1_714220038.exe.config
+C:\Users\aditya firmansyah\Downloads\PBO\Pertemuan3\Praktikum\P3_1_714220038\P3_1_714220038\bin\Debug\P3_1_714220038.exe
+C:\Users\aditya firmansyah\Downloads\PBO\Pertemuan3\Praktikum\P3_1_714220038\P3_1_714220038\bin\Debug\P3_1_714220038.pdb
+C:\Users\aditya firmansyah\Downloads\PBO\Pertemuan3\Praktikum\P3_1_714220038\P3_1_714220038\obj\Debug\P3_1_714220038.csproj.AssemblyReference.cache
+C:\Users\aditya firmansyah\Downloads\PBO\Pertemuan3\Praktikum\P3_1_714220038\P3_1_714220038\obj\Debug\P3_1_714220038.csproj.CoreCompileInputs.cache
+C:\Users\aditya firmansyah\Downloads\PBO\Pertemuan3\Praktikum\P3_1_714220038\P3_1_714220038\obj\Debug\P3_1_714220038.exe
+C:\Users\aditya firmansyah\Downloads\PBO\Pertemuan3\Praktikum\P3_1_714220038\P3_1_714220038\obj\Debug\P3_1_714220038.pdb
