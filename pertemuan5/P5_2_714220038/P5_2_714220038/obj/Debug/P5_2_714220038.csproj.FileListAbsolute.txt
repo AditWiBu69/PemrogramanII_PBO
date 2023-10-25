@@ -1,0 +1,11 @@
+C:\Users\aditya firmansyah\Downloads\PBO\pertemuan5\P5_2_714220038\P5_2_714220038\bin\Debug\P5_2_714220038.exe.config
+C:\Users\aditya firmansyah\Downloads\PBO\pertemuan5\P5_2_714220038\P5_2_714220038\bin\Debug\P5_2_714220038.exe
+C:\Users\aditya firmansyah\Downloads\PBO\pertemuan5\P5_2_714220038\P5_2_714220038\bin\Debug\P5_2_714220038.pdb
+C:\Users\aditya firmansyah\Downloads\PBO\pertemuan5\P5_2_714220038\P5_2_714220038\obj\Debug\P5_2_714220038.csproj.AssemblyReference.cache
+C:\Users\aditya firmansyah\Downloads\PBO\pertemuan5\P5_2_714220038\P5_2_714220038\obj\Debug\P5_2_714220038.ChildForm.resources
+C:\Users\aditya firmansyah\Downloads\PBO\pertemuan5\P5_2_714220038\P5_2_714220038\obj\Debug\P5_2_714220038.ParentForm.resources
+C:\Users\aditya firmansyah\Downloads\PBO\pertemuan5\P5_2_714220038\P5_2_714220038\obj\Debug\P5_2_714220038.Properties.Resources.resources
+C:\Users\aditya firmansyah\Downloads\PBO\pertemuan5\P5_2_714220038\P5_2_714220038\obj\Debug\P5_2_714220038.csproj.GenerateResource.cache
+C:\Users\aditya firmansyah\Downloads\PBO\pertemuan5\P5_2_714220038\P5_2_714220038\obj\Debug\P5_2_714220038.csproj.CoreCompileInputs.cache
+C:\Users\aditya firmansyah\Downloads\PBO\pertemuan5\P5_2_714220038\P5_2_714220038\obj\Debug\P5_2_714220038.exe
+C:\Users\aditya firmansyah\Downloads\PBO\pertemuan5\P5_2_714220038\P5_2_714220038\obj\Debug\P5_2_714220038.pdb
