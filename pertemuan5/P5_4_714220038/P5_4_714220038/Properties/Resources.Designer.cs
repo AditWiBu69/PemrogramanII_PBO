@@ -83,6 +83,16 @@ namespace P5_4_714220038.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap FrMboRraUAA5_f_ {
+            get {
+                object obj = ResourceManager.GetObject("FrMboRraUAA5_f-", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap IMG_5423 {
             get {
                 object obj = ResourceManager.GetObject("IMG_5423", resourceCulture);

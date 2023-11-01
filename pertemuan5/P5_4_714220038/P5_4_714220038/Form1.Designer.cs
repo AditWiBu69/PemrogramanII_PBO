@@ -287,7 +287,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::P5_4_714220038.Properties.Resources.img0_3840x2160;
+            this.BackgroundImage = global::P5_4_714220038.Properties.Resources.FrMboRraUAA5_f_;
             this.ClientSize = new System.Drawing.Size(1162, 586);
             this.Controls.Add(this.Selesai);
             this.Controls.Add(this.Tampilkan);
