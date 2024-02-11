@@ -1,0 +1,10 @@
+D:\Me\tugas\pbo\PemrogramanII_PBO\Pertemuan7\P7_714220038\P7_714220038\bin\Debug\P7_714220038.exe.config
+D:\Me\tugas\pbo\PemrogramanII_PBO\Pertemuan7\P7_714220038\P7_714220038\bin\Debug\P7_714220038.exe
+D:\Me\tugas\pbo\PemrogramanII_PBO\Pertemuan7\P7_714220038\P7_714220038\bin\Debug\P7_714220038.pdb
+D:\Me\tugas\pbo\PemrogramanII_PBO\Pertemuan7\P7_714220038\P7_714220038\obj\Debug\P7_714220038.csproj.AssemblyReference.cache
+D:\Me\tugas\pbo\PemrogramanII_PBO\Pertemuan7\P7_714220038\P7_714220038\obj\Debug\P7_714220038.Properties.Resources.resources
+D:\Me\tugas\pbo\PemrogramanII_PBO\Pertemuan7\P7_714220038\P7_714220038\obj\Debug\P7_714220038.csproj.GenerateResource.cache
+D:\Me\tugas\pbo\PemrogramanII_PBO\Pertemuan7\P7_714220038\P7_714220038\obj\Debug\P7_714220038.csproj.CoreCompileInputs.cache
+D:\Me\tugas\pbo\PemrogramanII_PBO\Pertemuan7\P7_714220038\P7_714220038\obj\Debug\P7_714220038.exe
+D:\Me\tugas\pbo\PemrogramanII_PBO\Pertemuan7\P7_714220038\P7_714220038\obj\Debug\P7_714220038.pdb
+D:\Me\tugas\pbo\PemrogramanII_PBO\Pertemuan7\P7_714220038\P7_714220038\obj\Debug\P7_714220038.Form1.resources
